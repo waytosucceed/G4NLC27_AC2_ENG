@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Fill in the blank with an adverb of manner:<br>She sang the song ______.",
+    "options": ["yesterday", "beautifully", "outside"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Fill in the blank with an adverb of place:<br>The cat is hiding ______ the bed.",
+    "options": ["under", "happily", "soon"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Fill in the blank with an adverb of time:<br>They will visit the zoo ______.",
+    "options": ["tomorrow", "quietly", "slowly"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Fill in the blank with an adverb of manner:<br>The dog barked ______ at the stranger.",
+    "options": ["loudly", "tomorrow", "rarely"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Fill in the blank with an adverb of place:<br>She looked ______ for her lost book.",
+    "options": ["quietly", "everywhere", "sweetly"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which of the following is an adverb of manner?",
+    "options": ["Slowly", "Tomorrow", "Here"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which sentence contains an adverb of time?",
+    "options": ["She sings beautifully.", "They arrived yesterday.", "The dog barked loudly."],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "An adverb of manner tells us how an action is performed.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "\"Quickly\" is an adverb of place.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Identify the adverb of place in the sentence:<br>\"We will meet you outside.\"",
+    "options": ["We", "will", "outside"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Identify the adverb of manner in the sentence:<br>\"The dancer gracefully glided across the stage.\"",
+    "options": ["Stage", "gracefully", "glided"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which of the following is an adverb of time?",
+    "options": ["Quickly", "Yesterday", "Nearby"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the adverb of place in the sentence:<br>\"The bird flew high above the trees.\"",
+    "options": ["flew", "high", "above"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "\"Swiftly\" is an adverb of manner.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Identify the adverb of manner in the sentence:<br>\"The dancer gracefully glided across the stage.\"",
+    "options": ["Stage", "dancer", "glided", "None of the above"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Fill in the blank with an adverb of place:<br>We played ______ in the park.",
+    "options": ["yesterday", "there", "carefully"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Fill in the blank with an adverb of time:<br>He finished his homework ______.",
+    "options": ["late", "upstairs", "bravely"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Fill in the blank with an adverb of frequency:<br>She ______ forgets her lunchbox.",
+    "options": ["never", "here", "loudly"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Fill in the blank with an adverb of frequency:<br>They ______ go to the library on weekends.",
+    "options": ["tomorrow", "there", "sometimes"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Fill in the blank with an adverb of frequency:<br>He ______ brushes his teeth before bed.",
+    "options": ["always", "outside", "slowly"],
+    "correct": 0
+  }
+]
